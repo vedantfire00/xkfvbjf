@@ -1,0 +1,81 @@
+body {
+    text-align: center;
+    background: linear-gradient(#ff0000 0%, #f6ff00 100%);
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+
+}
+
+#game {
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 400px;
+    top: 200px;
+}
+
+.uli {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+    width: 100%;
+}
+
+.ll1 {
+    float: left;
+    color: fuchsia;
+    display: inline;
+    font-family: fantasy;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 25px;
+}
+
+
+
+.ll1:hover {
+    background-color: black;
+    font-size: 50px;
+}
+
+#h21 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0px;
+    top: 378px;
+}
+
+#h11 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0px;
+    top: 400px;
+}
+
+#p1 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0px;
+    top: 450px;
+}
+.line
+{
+   height: 6px;
+   width: 1000px;
+   margin: 8px auto;
+   background-color: green;
+}
+.hi
+{
+    height: 300px;
+    width: 500px;
+}
